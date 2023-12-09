@@ -1,6 +1,7 @@
 FROM node:21.4-bookworm-slim
 
 RUN npm install -g npm@9.1.3
+RUN apt-upgrade zlib
 
 ADD package.json .
 ADD index.js .

@@ -10,3 +10,5 @@
     -3pm to 6pm 
     -10:17pm to 11:30pm
     this is for testing
+
+I am editing the README file. Adding some more details about the project description.
